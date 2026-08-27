@@ -68,6 +68,10 @@ No standalone publication exists for this dataset. Cite as:
 
 > Stevison, L.S. unpublished. Northern white-cheeked gibbon (*Nomascus leucogenys*) LD-based recombination map. Methodology as described in Stevison et al. (2016), *Mol. Biol. Evol.* 33(4):928–945.
 
+Alternatively, this will be included as part of an upcoming book chapter on non-human primate recombination rate. Cite review as:
+
+> Stevison, L.S. 2026. Recombination Rate Heterogeneity Across Non-Human Primates. In _Evolutionary Genomics of Non-Human Primates_ Ed. S. P. Pfiefer and J. D. Jensen. Elsevier.
+
 Sample/assembly background (not recombination-data sources):
 
 > Carbone, L. et al. (2014). Gibbon genome and the fast karyotype evolution of small apes. *Nature* 513, 195–201. https://doi.org/10.1038/nature13679
