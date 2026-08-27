@@ -66,7 +66,7 @@ Computed here for the primate recombination-rate comparison review:
 
 No standalone publication exists for this dataset. Cite as:
 
-> Stevison, L.S. unpublished. Northern white-cheeked gibbon (*Nomascus leucogenys*) LD-based recombination map. Methodology as described in Stevison et al. (2016), *Mol. Biol. Evol.* 33(4):928–945.
+> Stevison, L.S. unpublished. Northern white-cheeked gibbon (*Nomascus leucogenys*) LD-based recombination map. DOI: 10.5281/zenodo.22131713. Methodology as described in Stevison et al. (2016), *Mol. Biol. Evol.* 33(4):928–945.
 
 Alternatively, this will be included as part of an upcoming book chapter on non-human primate recombination rate. Cite review as:
 
